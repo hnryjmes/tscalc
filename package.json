@@ -1,0 +1,19 @@
+{
+  "name": "tscalc",
+  "version": "1.0.0",
+  "description": "An application demonstrating TDD in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnryjmes/tscalc.git"
+  },
+  "author": "Henry Cooksley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hnryjmes/tscalc/issues"
+  },
+  "homepage": "https://github.com/hnryjmes/tscalc#readme"
+}
