@@ -6,6 +6,7 @@ export class Calculator {
   }
 
   public add(n: number): number {
-    return n;
+    this.value += n;
+    return this.value;
   }
 }
